@@ -1,0 +1,35 @@
+# Axis Bank — Document Requirements
+
+The following documents are required for an Axis Bank Home Loan:
+- **Application Form**: Duly filled application form.
+- **ID Proof**: Aadhaar card, passport, government employee ID, voter ID, driving license, or photo ID issued by the Government of India.
+- **Address Proof**: Aadhaar card, passport, government employee ID, voter ID, driving license, photo ID issued by the Government of India, electricity bill, telephone bill, gas bill, or property tax receipt.
+- **Date of Birth Proof**: Passport, PAN Card, Aadhaar card, Birth certificate, or SSC Marksheet.
+- **Signature Proof**: Passport, PAN Card, Banker’s verification, or Notarized affidavit with address and ID proof.
+
+**Income Proof for Salaried Individuals**:
+- Pay slip for 3 months.
+- 2 years bonus proof or pay slip for 6 months.
+- Bank statement for 6 months reflecting salary credits.
+- Form 16 for 2 years.
+
+**Income Proof for NRI (Salaried)**:
+- Pay slip for 3 months.
+- Contract letter/appointment letter.
+- Passport Copy.
+- Valid VISA copy.
+- Overseas credit report.
+- Continuous Discharge Certificate for shipping cases.
+- International salary account statement for 6 months.
+- Domestic/NRE/NRO account statement for 6 months.
+
+**Income Proof for Self-Employed Individuals**:
+- ITR, income computation, P&L, balance sheet with CA seal and sign for 2 years (For Asha Home Loan, 1 year).
+- Bank statement for personal and business accounts for 6 months.
+- Business continuity proof for 3 years.
+- Tax paid challan and CPC if ITR is filed with no digital signatures.
+- Tax Audit Report (if gross turnover exceeds ₹1 crore or gross receipt exceeds ₹25 Lakh).
+
+**For Balance Transfer/Loan Takeover from Other Bank/Financial Institution**:
+- Loan account statement for 12 months with a recent outstanding letter.
+- Details of current loan and bank statement for 6 months with EMI deduction details.

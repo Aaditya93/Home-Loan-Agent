@@ -1,0 +1,41 @@
+# Bank of Baroda — Eligibility Criteria
+
+Bank of Baroda's home loan eligibility criteria vary based on the scheme, applicant's age, credit score, business vintage/work experience, and repayment history.
+
+- **General Eligibility:**
+  - **Applicant Types:** Resident Indian, Non-Resident Indian, Person of Indian Origin (PIO), Overseas Citizen of India (OCI).
+  - **Age:** 21-70 years.
+
+- **Specific Criteria for BOB Home Loan Takeover:**
+  - **Age:** 21-70 years.
+  - **For Individual Applicants:**
+    - Minimum CIBIL Score: 701.
+    - At least 12 EMIs already paid on the existing loan.
+    - Satisfactory repayment track record.
+  - **For Non-Individual Applicants:**
+    - An individual applicant/co-applicant must be present in the proposed loan.
+    - At least 18 EMIs must have been paid on the existing loan.
+    - The firm/company should:
+      - Have been incorporated for at least 5 years.
+      - Be engaged in business activities for the past 2 years.
+      - Be earning cash profits for the past 2 years.
+      - Have a positive net worth.
+      - Have a satisfactory CIBIL rating.
+      - Not have slipped into the SMA2 category for the last 12 months.
+      - Not be in the RBI defaulter’s list, ECGC Caution list/SAL, Suit filed/Non-Suit filed CIBIL list, CRILIC, etc.
+
+- **Specific Criteria for BOB Credit Risk Guarantee Fund Scheme for Low Income Housing:**
+  - New individual borrowers of housing loans up to ₹8 Lakhs under the Economically Weaker Sections (EWS)/Low Income Groups (LIG) category.
+  - Housing unit size up to 430 sq. ft. carpet area.
+
+- **Co-applicant Guidelines:**
+  - Adding a co-applicant improves eligibility.
+  - Close relatives (spouse, father, mother, son, son's wife, daughter, daughter's husband, brother/sister, brother's wife, sister of spouse, sister's husband, brother of spouse) are accepted as co-applicants.
+  - If a co-applicant is not a close relative, they must be a joint owner of the property.
+  - The bank considers the spouse's salary if they apply as a co-applicant.
+
+- **Loan Amount Determination:**
+  - The loan amount is determined by factors such as age, income, repayment capacity, job stability, assets, and liabilities.
+
+- **Loan Tenure Limit:**
+  - The sanctioned loan tenure cannot exceed the applicant's retirement age or 65 years, whichever is earlier, despite a maximum tenure of 30 years.

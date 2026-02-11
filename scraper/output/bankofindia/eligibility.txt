@@ -1,0 +1,26 @@
+# Bank of India — Eligibility Criteria
+
+Bank of India has various home loan schemes, each with specific eligibility criteria:
+
+General Eligibility (Common across most schemes):
+-   **Nationality:** Resident Indian, NRIs, and PIOs are generally eligible (scheme specific variations apply).
+-   **Minimum Age:** 18 years at the time of loan application.
+-   **Maximum Age:** 70 years at the time of loan maturity.
+-   **Job Profile:** Individuals including salaried, self-employed, and professionals. Non-individuals such as HUF, Corporates, Groups/Association of Individuals are also eligible for certain schemes. Trusts are generally not eligible.
+
+CIBIL Score:
+-   While Bank of India has not set a specified minimum CIBIL score, it offers lower interest rates to applicants with higher credit scores (e.g., 800 and above, 750-799, 700-749).
+
+Scheme-Specific Eligibility:
+-   **BOI Star Home Loan:** Available to Resident Indian, NRIs, and PIOs.
+-   **Star Diamond Home Loan:**
+    -   Nationality: Resident Indians, PIO, NRIs.
+    -   Job Profile: HNI individuals (salaried, self-employed, professionals) and Non-Individuals (HUF, Corporates, Groups/Association of Individuals).
+    -   Minimum Average Gross Income: ₹1 Crore and above during the last 3 years.
+-   **BOI Star Smart Home Loan:**
+    -   Existing savings/current account customers with an average balance of ₹5,000 for the past 1 year, or new customers opening a new savings/current account with an opening balance of ₹5,000.
+    -   Salaried employees having salary accounts with Bank of India.
+    -   Self-employed professionals such as lawyers, doctors, CAs, CS, engineers, etc.
+-   **BOI Star Pravasi Home Loan Scheme:**
+    -   Nationality: Non-Resident Indians (NRIs) and Persons of Indian Origin (PIO).
+    -   Includes Indian citizens working abroad on assignment with National/International government agencies, or Indian citizens working in the merchant navy having NRI status.

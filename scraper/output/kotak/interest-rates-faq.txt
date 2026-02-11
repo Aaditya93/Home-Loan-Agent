@@ -1,0 +1,44 @@
+# Kotak Mahindra Bank — Interest Rates & FAQs
+
+Here is a summary of interest rates, fees, tenure, and frequently asked questions for Kotak Mahindra Bank Home Loans:
+
+**Interest Rates & Loan Details:**
+- **Interest Rate:** Starting from 7.70% p.a. (Kotak Mahindra Bank). Interest rates may vary based on the applicant's employment profile.
+- **Loan Amount (LTV Ratio):** Up to 90% of the property's value.
+- **Loan Tenure:** Up to 25 years.
+- **Balance Transfer Facility:** Available for existing home loan borrowers of other lenders at potentially lower interest rates.
+- **Types of Interest Rates:** Kotak Mahindra Bank offers both floating and fixed interest rates. Fixed rates are generally available only for existing home loan customers switching from a floating rate.
+
+**Processing Fees & Other Charges:**
+- **Processing Fees (Overall):** Up to 1% of the loan amount.
+  - For salaried applicants: 0.50% of the loan amount.
+  - For self-employed applicants: 1% of the loan amount.
+  - For digital applications: 50% off on processing fees.
+  - Upfront processing fee: ₹5,000 (in addition to the percentage-based fee).
+- **General Fees & Charges:**
+  - Duplicate NOC: ₹100
+  - Copy of property documents: ₹500
+  - Repayment mode/Account swap charges: ₹500
+  - Loan cancellation charges: 0.10% of the loan amount or ₹25,000, whichever is higher (plus taxes).
+  - Legal charges: At actuals.
+  - Penal Charges (for delay/default in payment): 8% p.a. on the overdue amount plus applicable taxes.
+  - Penal Charges (for non-payment of other dues/charges/fees): 8% p.a. on the overdue amount plus applicable taxes.
+
+**Prepayment Charges:**
+- **Floating Rate Loans:** NIL for non-business end-use.
+- **Lock-in Period:** No prepayment/foreclosure is allowed for the first 6 months after EMI commencement.
+- **Part Prepayment (After Lock-in):**
+  - A minimum of ₹25,000 and a maximum of up to 25% of the outstanding loan amount can be prepaid every 6 months without any prepayment charges.
+  - For part prepayments exceeding 25% of the outstanding loan amount, a minimum period of 6 months is required between any two prepayments.
+  - If part prepayments exceed 25% of the outstanding loan, 2% of the foreclosure loan amount along with amounts prepaid during the last 12 months shall be charged.
+
+**Charges Specific to Overdraft Facility:**
+- **Annual Renewal Charges:** 0.25% of the limit (dropped limit after reduction of annual drop) per instance.
+- **Non-Utilisation Charges:** If the average utilization of facility limits for a quarter is below 25% of sanctioned limits, 0.4% p.a. on the under-utilized limits (from the day of breach) shall be due and payable.
+- **Penal Charges (Overline accounts):** 8% p.a. on the overdue amount.
+
+**Frequently Asked Questions (FAQs):**
+- **Loan Disbursement Time:** Kotak Mahindra Bank claims to disburse home loans in 2 working days after the submission of relevant documents.
+- **Co-applicants:** Your spouse, parents, or major children can be co-applicants. The co-owner of the property must be a co-applicant, but a co-applicant does not necessarily have to be a co-owner of the property.
+- **Processing Fee Refund:** Kotak Mahindra Bank does not refund processing fees levied on home loan applications. However, processing fees are waived off for online home loan applications.
+- **Reasons for Loan Rejection:** A home loan application can be rejected due to a poor credit score, frequent job changes, age, high EMI/NMI ratio of the applicant, or issues related to property and documentation.

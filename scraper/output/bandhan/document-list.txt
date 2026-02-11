@@ -1,0 +1,87 @@
+# Bandhan Bank — Document Requirements
+
+The following documents are generally required for a Bandhan Bank Home Loan application:
+
+**For Salaried Borrowers (Suraksha/Sajavat/Suvidha Home Loan):**
+- Completely filled loan application form with a recent photograph.
+- Photo ID proof, address proof, age proof for KYC.
+- Completely filled customer relationship form with recent photograph.
+- Cheque for applicable processing charges.
+- Salary slips for the last 3 months.
+- Recent PF statement.
+- Form 16 provided by the employer.
+- Last 3 years ITR copies.
+- Photocopy of investments and life insurance policies.
+- Copy of bank passbook for all bank accounts showing entries for the last 3 months.
+- Credit card photocopy with last monthly statement.
+- **If other loans are availed (open or closed):**
+  - Sanction letter copy.
+  - No dues certificate for closed loans.
+  - Updated repayment history.
+- Salary certificate on employer’s letterhead with signatures and stamp (if no salary slips).
+- Copy of rent agreement if present accommodation is on rent.
+- Visiting card.
+
+**For Self-employed Borrowers (Suraksha/Sajavat/Suvidha Home Loan):**
+- Completely filled loan application form with a recent photograph.
+- KYC documents.
+- Customer Relationship Form.
+- Cheque for applicable processing charges.
+- Copy of ITR for past 3 years.
+- Copy of certified accounts or audited accounts with schedules for the last three financial years.
+- Business note (in bank format) with images of business place.
+- Investment and life insurance policies photocopy.
+- Copy of bank passbooks of all bank accounts for the last 6 months.
+- Rent agreement of the place of business, if on rent.
+- Shop and establishment license for the commercial entity.
+- Copy of professional degree/certificate.
+- Visiting card.
+- Shareholding pattern or partnership deed of your entity.
+
+**Additional Legal and Technical Documents (Common for Suraksha/Sajavat/Suvidha Home Loan):**
+- Approved construction plan with estimate, construction permission, and layout plan.
+- Ownership document copy of the previous owner.
+- Copy of sale deed/construction agreement/sell agreement/amenities agreement.
+- Recent images of the property.
+- Ownership proof in revenue records (e.g., Form-6, property card, Form 8-A, Form 7/12).
+- Receipts of margin money paid.
+- Copy of allotment letter and share certificate in case of co-operative society.
+- NA permission from the concerned authority.
+- NOC to mortgage from a concerned authority (e.g., development authority/society).
+
+**For Salaried Borrowers (Su-awas Home Loan):**
+- Filled application form.
+- Photo ID proof, age proof, address proof for KYC.
+- Last 3 months salary slips.
+- Form 16.
+- Copy of bank passbook for all bank accounts showing entries for the last 6 months.
+- **In case of other loans (active as well as closed):**
+  - Sanction letter copy.
+  - Updated repayment record.
+  - No dues for closed loans.
+- Salary certificate (in case of no salary slips).
+- Copy of rent agreement.
+
+**For Self-employed Borrowers (Su-awas Home Loan):**
+- Application form.
+- KYC documents.
+- **Any one of the following for income proof:**
+  - Cash flow statement and last 1 year’s ITR statement OR verification by local authorities (Municipality or Panchayat).
+  - ITR for the last 2 years with income computation for both years (if eligibility is calculated based on ITR income).
+  - Self-declared income statement as per the Bank’s format (if the monthly income of the self-employed applicant is less than or equal to ₹25,000).
+- Copy of bank passbook with entries of last 6 months for all banks.
+- **In case of other loans availed (active as well as closed):**
+  - Copy of sanction letter.
+  - No dues of closed loans.
+  - Updated repayment record.
+- Rent agreement of the business place.
+- Rent agreement copy of accommodation.
+
+**Additional Legal and Technical Documents (Common for Su-awas Home Loan):**
+- Non-agricultural permission from the authority concerned.
+- Ownership document of the previous owner.
+- Latest image of the property.
+- Copy of agreement to sell/sale deed/amenities agreement/construction agreement.
+- Ownership proof in revenue records (e.g., Form 8-A, Form 7/12, Form 6, property card).
+- Receipt of margin money paid (in case of property purchase).
+- Approved construction plan with layout plan, construction permission, and estimate.

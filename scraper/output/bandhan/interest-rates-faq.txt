@@ -1,0 +1,67 @@
+# Bandhan Bank — Interest Rates & FAQs
+
+Here is a summary of Bandhan Bank's home loan interest rates, fees, tenure options, and frequently asked questions:
+
+**Interest Rates:**
+- General range: 8.41% to 15.00% p.a. onwards.
+- Specific to loan types:
+  - Suraksha Home Loan: 8.41%-12.58% p.a.
+  - Sajavat Home Loan: 8.41%-12.58% p.a.
+  - Su-awas Home Loan: 13.00%-15.00% p.a.
+  - Suvidha Home Loan: 8.41%-12.58% p.a.
+- The final interest rate may depend on factors such as monthly income, job profile, employer’s profile, and credit score of the applicant.
+
+**Loan-to-Value (LTV) Ratio & Loan Amounts:**
+- Up to 90% of the property cost for Suraksha and Suvidha Home Loans.
+- Up to 80% of the cost of repair work for Sajavat Home Loan.
+- Su-awas Home Loan: Loan amount ranges from ₹1 Lakh to ₹10 Lakh.
+- Su-awas Saral Home Loan: Loan amount ranges from ₹1 Lakh to ₹7 Lakh.
+- Suniwas Home Loan: Loan amount ranges from ₹50,000 to ₹5 Lakh.
+
+**Tenure Options:**
+- General range: 1 to 30 years.
+- Specific to loan types:
+  - Suraksha Home Loan: 1-30 years.
+  - Sajavat Home Loan: 1-15 years.
+  - Su-awas Home Loan: 2-10 years.
+  - Su-awas Saral Home Loan: 2-10 years.
+  - Suvidha Home Loan: 1-30 years.
+
+**Fees and Charges:**
+- Processing Fees: Up to 1%.
+- Login Fees: ₹3,500 + GST.
+- Administrative Fees: 0.25% – 2.00% + GST.
+- **Pre-payment Charges on Fixed Rate of Interest:**
+  - For loans repaid less than 12 months: 4% of outstanding principal + GST.
+  - For loans repaid more than 12 months: 2% of outstanding principal + GST.
+  - For cases disbursed under Erstwhile Gruh (with documentary proof of own source of funds): NIL.
+- **Pre-payment Charges on Floating Rate of Interest:**
+  - If the applicant and co-applicant are individuals: NIL.
+  - For one or more non-individual applicants: 2% + GST.
+- Rate of Interest Conversion Charges: 0.50%-1.25% of the outstanding balance (for PLR linked loans); ₹3,000 for EBR conversion.
+- Charges for Cheque Bounce: ₹500 + GST.
+- Penal Charges (late payment of EMIs): 2% of the overdue amount.
+- Account Statement: Free once annually; ₹100 + GST for subsequent requests.
+- Income Tax Certificate: Free once annually; ₹30 + GST for subsequent requests.
+- CERSAI Charges: For creation: ₹100 + GST; For satisfaction: NIL.
+- CIC Charges: ₹150 per individual + GST.
+- Valuation Report Charges: As per actuals, but not exceeding ₹5,000 per property.
+- Technical Inspection Charges (for subsequent inspections during phase-wise disbursement):
+  - For local visits: ₹250 per visit + GST.
+  - For outstation visits: ₹350 per visit + GST.
+- Search Report and TCC Charges: Maximum ₹5,000 per property.
+- Charges for registration of mortgage and release of charges: On actuals.
+- Copy of Property Documents: ₹500 + GST.
+- Stamp duty and Statutory Charges: At actuals as per applicable state laws.
+- Miscellaneous/Legal Charges: At actuals.
+- List of Documents: ₹250.
+
+**Frequently Asked Questions (FAQs):**
+- **What is the current home loan interest rate offered by Bandhan Bank?** The current home loan interest rates offered by Bandhan Bank range from 8.41% to 15% p.a., depending on the credit profile of applicants and the specific home loan scheme availed.
+- **How can I apply for a Bandhan Bank Home Loan?** You can apply either directly through the official website of Bandhan Bank or by visiting any branch.
+- **What factors determine Bandhan Bank Home Loan eligibility?** Eligibility primarily depends on the monthly disposable or surplus income of home loan applicants.
+- **What is the minimum credit score required to avail home loans from Bandhan Bank?** Bandhan Bank has not specified a cut-off credit score. However, applicants with credit scores of 750 and above generally have higher chances of availing home loans at lower interest rates.
+- **Can I prepay my home loan availed from Bandhan Bank?** Yes, you can prepay the home loan. The bank does not levy any prepayment charges on home loans offered at floating rates of interest if the applicant and co-applicant are individuals.
+- **Can I choose between fixed and floating rates of interest?** Bandhan Bank offers home loans at floating rates only.
+- **I do not have any formal income documents. Can I avail home loan from Bandhan Bank?** Yes, if you do not have formal income proofs like salary slips with PF deductions and IT returns, you can avail Suvidha Home Loans for purchase/construction/extension of a house. The bank conducts detailed field investigations and assessments to assess cash flow and income for such applicants.
+- **Can micro-banking borrowers avail home loans from Bandhan Bank?** Yes, Bandhan Bank offers the Su-awas Home Loan scheme specifically to micro-banking borrowers.

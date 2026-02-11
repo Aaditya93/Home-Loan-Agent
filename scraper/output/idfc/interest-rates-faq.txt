@@ -1,0 +1,47 @@
+# IDFC First Bank — Interest Rates & FAQs
+
+IDFC FIRST Bank offers home loans with the following key features and frequently asked questions:
+
+-   **Interest Rates (as of 4th February 2026):**
+    -   Interest rates start from 8.85% p.a. onwards, varying based on loan type and employment.
+    -   **For Salaried Applicants:**
+        -   Home Loan: 8.85% p.a. onwards
+        -   Home Loan Balance Transfer: 8.85% p.a. onwards
+        -   Top-up Loan: Same ROI as Balance Transfer, subject to a maximum capping of 100% of the BT loan amount.
+    -   **For Self-Employed Applicants:**
+        -   Home Loan: 9.00% p.a. onwards
+        -   Home Loan Balance Transfer: 9.00% p.a. onwards
+        -   Top-up Loan: Same ROI as Balance Transfer, subject to a maximum capping of 100% of the BT loan amount.
+    -   All home loans offered by IDFC FIRST Bank are at floating interest rates only. The repo rate reset frequency for home loans is 3 months.
+
+-   **Loan Amount and Tenure:**
+    -   **IDFC FIRST Housing Loan:** Up to ₹10 crore, with a tenure of up to 30 years.
+    -   **IDFC FASTRACK Home Loan Balance Transfer:** Up to ₹2 crore, with a tenure of up to 30 years. Balance transfer applicants can also avail additional top-up home loans at the same balance transfer rates.
+
+-   **Fees and Charges:**
+    -   **Processing Fees:** Up to 3% of the loan amount.
+    -   **EMI Bounce Charges:** ₹500.
+    -   **Charges for Physical Documents (Statement of Account, Repayment Schedule, etc.):** ₹500.
+    -   **Cheque/Instrument Swap Charges:** NIL.
+    -   **Switch Fee:**
+        -   From Fixed to Floating interest rate: Up to 2% of the sanctioned amount.
+        -   From Higher Fixed to Lower Fixed interest rate: Up to 1% of the sanctioned amount.
+        -   From Floating to Fixed interest rate: As per the existing fee.
+    -   **Loan Rescheduling Charges:** ₹300.
+    -   **Cancellation and Rebooking Charges:** 1% of loan amount plus interest from the date of disbursal until receipt of cancellation request.
+    -   **Penal Charges:** 2% per month of unpaid EMI or ₹300, whichever is higher.
+    -   **Repricing Fees:** Up to 2%.
+
+-   **Foreclosure/Prepayment/Part Payment Charges:**
+    -   **For loans having floating interest rate:** NIL.
+    -   **For loans having fixed interest rate for the entire tenure:** Up to 2% of the sanctioned amount.
+    -   **For loans having hybrid interest rate:** NIL if done during the floating rate period; Up to 2% of the sanctioned amount if done during the fixed rate period.
+
+-   **FAQs:**
+    -   **Interest Rate Start:** IDFC FIRST Bank home loan interest rates start from 8.85% p.a. onwards.
+    -   **Loan Type:** Home loans are offered at floating rates only.
+    -   **EMI Repayment Dates:** The 2nd, 5th, and 10th of each month are set for home loan EMI repayment.
+    -   **'No Income Proof' Program:** Yes, home loans can be availed even without regular income documents through this program.
+    -   **Foreclosure:** Yes, home loans can be foreclosed, and there are no charges on floating rate home loans.
+    -   **Tax Deduction Benefits:** Borrowers can claim tax deductions under Section 80C (up to ₹1.5 Lakhs p.a. on principal repayment) and Section 24b (up to ₹2 Lakhs p.a. on interest paid, with no limit for rented property) of the Income Tax Act.
+    -   **Part Prepayments:** Yes, part prepayments are allowed with no fees on floating rate home loans.

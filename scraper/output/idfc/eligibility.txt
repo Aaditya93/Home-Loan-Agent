@@ -1,0 +1,23 @@
+# IDFC First Bank — Eligibility Criteria
+
+IDFC FIRST Bank has specific eligibility criteria for home loan applicants:
+
+-   **For Salaried Individuals:**
+    -   **Nationality:** Indian residents and NRIs
+    -   **Minimum Age:** 21 years at the time of loan application
+    -   **Maximum Age:** 60 years at the time of loan maturity
+    -   **Work Experience:** At least 3 years
+    -   **Minimum Income:** ₹1 lakh per annum
+
+-   **For Self-Employed Individuals:**
+    -   **Nationality:** Indian residents
+    -   **Minimum Age:** 23 years at the time of loan application
+    -   **Maximum Age:** 70 years at the time of loan maturity
+    -   **Minimum Income:** ₹1.5 lakh per annum
+    -   **Business Experience:** At least 4 years in business
+
+-   **General Criteria:**
+    -   **Credit Score:** While no specific cut-off is mentioned, applicants with CIBIL scores of 750 and above typically have a higher chance of availing home loans at lower interest rates.
+    -   **'No Income Proof' Program:** IDFC FIRST Bank offers a program that allows customers without regular income documents to avail a home loan.
+    -   **Co-applicant:** It is not mandatory to have a co-applicant for a home loan. However, all co-owner(s) of the property must be co-applicants.
+    -   **Multiple Home Loans:** The bank may offer two home loans to applicants, provided they have satisfactory repayment capacity and fulfill other eligibility criteria such as age and credit score. The bank also considers the title, location, and other features of the property.

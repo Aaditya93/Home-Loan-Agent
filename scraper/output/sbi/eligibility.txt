@@ -1,0 +1,58 @@
+# State Bank of India — Eligibility Criteria
+
+SBI evaluates home loan eligibility based on age, job profile, and credit assessment. General factors considered include monthly income, EMI/NMI ratio, and credit score. Specific criteria for various home loan schemes are:
+
+- **For SBI Regular Home Loans/Home Loan Balance Transfer/Pre-Approved Home Loan:**
+  - Minimum age: 18 years
+  - Maximum age: 70 years
+  - Nationality: Resident Indian
+
+- **For SBI NRI Home Loan:**
+  - Minimum age: 18 years
+  - Maximum age: 60 years
+  - Nationality: Non-Resident Indian and Person of Indian Origin (PIO)
+
+- **For SBI Flexipay Home Loan:**
+  - Minimum age: 21-45 years
+  - Maximum age: 70 years
+  - Job Profile: Salaried
+  - Nationality: Indian
+
+- **For SBI Privilege Home Loan:**
+  - Minimum age: 18 years
+  - Maximum age: 75 years
+  - Nationality: Resident Indian
+  - Job Profile: Government employees (central/state government, public sector banks, public sector undertakings) and individuals with pensionable service.
+
+- **For SBI Shaurya Home Loan:**
+  - Minimum age: 18 years
+  - Maximum age: 75 years
+  - Nationality: Resident Indian
+  - Job Profile: Army and Defence Personnel
+
+- **For SBI Realty Home Loan:**
+  - Minimum age: 18 years
+  - Maximum age: 65 years
+  - Nationality: Indian
+
+- **For SBI Top-up Home Loan:**
+  - Minimum age: 18 years
+  - Maximum age: 70 years
+  - Nationality: Resident Indian/NRIs
+
+- **For SBI YONO Insta Home Top-up Loan:**
+  - Pre-selected customers based on various credit checks such as satisfactory repayment and residual loan tenure.
+
+- **For SBI Home Loan to Non-Salaried-Differential Offerings:**
+  - Minimum age: 18 years
+  - Nationality: Resident Indian
+  - Job Profile: Non-Salaried individuals (proprietors in a proprietorship firm, partners in a partnership firm, or directors in a company). The company/firm must:
+    - Be in existence for at least 3 years.
+    - Have earned Net Profit in the past 2 years.
+    - Have regular and standard existing credit facilities.
+    - If the proposed house property is jointly acquired by a proprietor and proprietary firm, the firm should be debt-free or an existing borrower.
+
+- **For SBI Tribal Loan (Tribal Plus):**
+  - Minimum age: 21 years
+  - Maximum age: 60 years
+  - Nationality: Resident Indian

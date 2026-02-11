@@ -1,0 +1,34 @@
+# Bank of India — Interest Rates & FAQs
+
+Bank of India offers competitive home loan products with the following features:
+
+Interest Rates:
+-   Starting from 7.10% p.a. onwards.
+-   Differential interest rates are offered based on the applicant's CIBIL score and occupation profile.
+-   A concession of 0.10% on interest rates is provided for home loan balance transfer applicants, subject to the offered rate not falling below 7.45% p.a.
+-   Home loans are available at both floating and fixed interest rates.
+
+Loan Amount:
+-   Generally, up to 90% of the property's market value.
+-   **BOI Star Home Loan:** Up to ₹3 Crore (up to ₹5 Crore in metro cities like Mumbai, Delhi, Kolkata, Chennai) for purchase/construction; up to ₹50 Lakh for repair/renovation/extension; up to ₹3 Crore for plot purchase.
+-   **BOI Star Diamond Home Loan:** Loan amounts above ₹7.5 Crore, with an LTV ratio of up to 80% of Pure Property Value.
+-   **BOI Star Smart Home Loan:** Minimum loan amount of ₹5 Lakh for salaried individuals and ₹10 Lakh for self-employed individuals.
+-   **BOI Star Pravasi Home Loan Scheme:** Loan amount up to 90% of property value (LTV).
+
+Loan Tenure:
+-   Up to 30 years.
+
+Processing Fees:
+-   General range: ₹3,500 - ₹60,000 (excluding GST).
+-   For Individuals (general schemes): 0.35% of the loan amount (Minimum ₹3,500, Maximum ₹30,000) plus GST.
+-   For Star Diamond Home Loan: A flat fee of ₹60,000 (irrespective of loan amount) plus GST.
+-   Processing fees are waived for home loan applicants with a CIBIL score of 725 and above, or a CIBIL score of -1/0, provided there are no adverse remarks in their CIBIL report.
+
+Prepayment and Foreclosure:
+-   Foreclosure of home loans is permitted.
+-   No prepayment fees are charged for home loans availed at floating interest rates.
+
+Other Features:
+-   Overdraft facility is available.
+-   Home loan balance transfer facility is offered for most schemes.
+-   BOI Star Top-Up Loan is available for existing home loan borrowers for personal needs (excluding speculative purposes).

@@ -1,0 +1,36 @@
+# Bank of India — Document Requirements
+
+The following documents are required for a Bank of India Home Loan:
+
+For Individuals (General / BOI Star Diamond Home Loan):
+-   **Identity Proof:** Passport, PAN Card, Driving License, or Voter ID.
+-   **Address Proof:** Passport, Driving License, Aadhaar Card, latest electricity bill, latest telephone bill, or latest piped gas bill.
+-   **Income Proof (Salaried):** Salary/pay slip for the latest 6 months and 1 year ITR/Form 16.
+-   **Income Proof (Self-employed):** ITR for the last 3 years along with income computation of Income, Profit & Loss account, Balance sheet, and Capital account statement.
+
+For Other than Individuals (Firms/Companies - General / BOI Star Diamond Home Loan):
+-   KYC of partners/directors.
+-   PAN card copy of the firm/company.
+-   Account statement for the last 1 year.
+-   Registered Partnership Deed/Memorandum of Association (MOA)/Articles of Association (AOA).
+-   Audited financials of the firm for the last 3 years.
+-   Certificate of incorporation.
+
+Additional Documents for BOI Star Pravasi Home Loan (For NRIs/PIO Individuals):
+-   Passport with VISA printed on it.
+-   Copy of PAN Card.
+-   Work permit.
+-   Address Proof of India and abroad.
+-   ID card issued by the employer.
+-   Address Proof of the employer with contact details.
+-   Latest salary slip.
+-   Annual ITR filed as per the rules of the country of present residence for the last 2 years.
+-   Statement/Income Proof/Returns, etc., as applicable to the country of present residence.
+
+Additional Documents for BOI Star Pravasi Home Loan (For NRIs/PIO Other than Individuals/Firms):
+-   Membership of professional organization.
+-   Income Proof (based on audited financial).
+-   Copy of PAN Card.
+-   Passport with VISA printed on it.
+-   Address Proof of India and abroad.
+-   Government or local body permission or license to engage in business activity.

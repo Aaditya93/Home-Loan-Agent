@@ -1,0 +1,38 @@
+# State Bank of India — Interest Rates & FAQs
+
+SBI Home Loans are offered at competitive rates with the following key features:
+
+- **Interest Rates:**
+  - Starting from 7.25% p.a. onwards (for those availing through Paisabazaar).
+  - Rates are personalized and depend on the applicant's credit score and the specific home loan scheme applied for.
+  - SBI offers home loans at floating interest rates only.
+  - Interest is calculated using the monthly reducing balance method.
+  - Changes in interest rates are subject to changes in the repo rate and the interest rate reset date for the loan.
+
+- **Minimum Loan Amount:** ₹30 Lakhs (for Regular Home Loan highlights)
+
+- **Loan to Value (LTV) Ratio:** Up to 75% of the property value.
+
+- **Loan Tenure:** Up to 30 years for most schemes (e.g., Regular, NRI, Flexipay, Privilege, Shaurya, Pre-Approved, Top-up, Non-Salaried-Differential). Exceptions include SBI Realty Home Loan (up to 10 years) and SBI Tribal Plus (up to 15 years).
+
+- **Processing Fees and Charges:**
+  - Home Loan & Top-up Home Loan: ₹11,800
+  - NRI, Realty, Maxgain, CRE, Flexi-pay, Non-salaried, PAL, Tribal Plus, Apon Ghar Loan above ₹15 Lakhs: 0.35% of the loan amount (Minimum ₹2,000, Maximum ₹10,000)
+  - YONO Insta Home Top-up Loan (Digital Product): ₹2,000
+  - Privilege and Shaurya Home Loan: NIL
+  - Apon Ghar (Home Loan up to ₹15 Lakhs): NIL
+  - Kerala Govt Employees Home Loans Scheme: NIL
+
+- **Frequently Asked Questions (FAQs):**
+  - **Interest Calculation Method:** SBI uses a monthly reducing balance method, where interest is calculated on the outstanding principal after each EMI payment. The interest component is highest in the initial years.
+  - **Loan Disbursement Time:** SBI claims 3-10 working days on average after documentation and other procedures are completed.
+  - **Property Insurance:** Property insurance is mandatory for SBI Home Loans. The property must be insured against risks like fire, earthquakes, lightning, riots, floods, etc., in the joint names of both the borrower and the bank, covering the actual project cost (after deducting the cost of land, stamp duty, and registration charges). The borrower is responsible for the insurance cost.
+  - **Foreclosure:** Borrowers can foreclose their SBI Home Loan. As SBI offers home loans at floating interest rates, no foreclosure fee is levied.
+  - **Concessions for Women Borrowers:** SBI currently does not offer any special concessions on home loan interest rates for women borrowers.
+  - **Reducing Interest Rates:** Borrowers can reduce their interest rate by switching to a new interest rate structure upon paying a one-time switch-over fee. Alternatively, they can opt for a balance transfer to another lender offering lower interest rates.
+  - **Minimum CIBIL Score:** SBI has not specified a cut-off CIBIL score. However, lenders generally prefer applicants with a credit score of 700 and above, with 750 and above being ideal to minimize lending risk.
+  - **Pre-Approved Home Loan:** Yes, SBI offers in-principal home loan approval based on the applicant's income and repayment capacity, allowing them to confidently negotiate with builders/sellers.
+  - **Joint Application:** Yes, you can apply jointly with your spouse. The spouse's salary will be considered if they become a co-applicant. If the spouse is a co-owner of the property, they must be a co-applicant.
+  - **Home Loan Statement/Interest Certificate:** These can be downloaded from the official SBI website, the SBI YONO app, or through SBI internet banking. Interest certificates can also be obtained by calling toll-free numbers 18001234 or 18002100 from the registered mobile number.
+  - **Maximum Loan Amount Eligibility:** This depends on various factors including monthly income, existing loan repayment liabilities, chosen loan tenure, age, and other aspects of the credit profile. SBI has not disclosed its specific methodology (EMI/NMI ratio or multiplier method) for determining the maximum eligible loan amount.
+  - **Interest Rates for Pensioners/Senior Citizens:** SBI has not disclosed special concessions for pensioners or senior citizens. Final interest rates for such applicants would depend on their credit score, monthly pension amount, and overall credit profile.

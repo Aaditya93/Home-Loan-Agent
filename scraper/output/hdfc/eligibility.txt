@@ -1,0 +1,14 @@
+# HDFC Bank — Eligibility Criteria
+
+The eligibility criteria for HDFC Bank Home Loans are as follows:
+
+-   **Minimum Age:** 18 years
+-   **Maximum Age:** 70 years
+-   **Profession:**
+    -   Salaried individuals
+    -   Self-employed Professionals (doctors, lawyers, engineers, CAs, architects, consultants, CS)
+    -   Self-employed Non-Professionals (commission agents, contractors, traders)
+-   **Minimum Income:**
+    -   For Salaried Individuals: ₹10,000 per month
+    -   For Self-Employed Individuals: ₹2 Lakhs per annum
+-   **Other Determining Factors:** HDFC Bank home loan eligibility is also assessed based on the applicant's credit score, monthly income, and EMI/NMI ratio. A credit score of 750 and above generally qualifies for lower interest rates.

@@ -1,0 +1,63 @@
+# Bank of Baroda — Document Requirements
+
+The following documents are generally required for a Bank of Baroda Home Loan application:
+
+- **Common Documents for all Applicants:**
+  - Duly filled application form with applicant's photograph.
+  - Proof of Residence (e.g., Aadhaar Card, Voter’s ID Card, Passport, Driving License, Ration Card).
+  - Proof of Age (e.g., PAN card, Aadhaar Card, Voter’s ID Card, Birth Certificate, Passport, Driving License).
+  - Proof of assets held (e.g., LIC, NSC, KVP, MF, Property).
+  - Asset and liability statement.
+  - ITR verification report.
+
+- **Additional Documents for Salaried Individuals:**
+  - Latest 3 months’ salary slip (and 1 month salary slip for a guarantor).
+  - Copy of employee ID card issued by the employer.
+  - Past 1-year ITR and Form 16 of applicant and guarantor.
+  - Bank account statement for the past 6 months (or Bank account number if with Bank of Baroda).
+  - Appointment letter, confirmation letter, promotion letter, or increment letter evidencing duration of employment.
+
+- **Additional Documents for Self-employed Individuals/Professionals/Others:**
+  - Balance sheet and profit and loss account with income computation for last 2 years.
+  - ITR for last 2 years, 26AS, Traces.
+  - IT assessment, clearance certificate, Income Tax challan, TDS certificate (Form 16A), Form 26AS for income declared in ITR.
+  - Business Proof (e.g., Gumasta license, Service Tax Registration, Registration Certificate).
+
+- **For Applicants engaged in Business through Partnership Firm/Private Ltd. Company (additional to self-employed):**
+  - Address Proof or PAN Card of Firm/Company.
+  - ITR and audited results of last 2 years of Firm or Company.
+  - Memorandum and Articles of Association (AOA) of the company.
+  - Current account statement for last 1 year.
+
+- **Additional Documents for Farmers or Agriculturists:**
+  - Talati’s/Gram Sevak/Village Revenue Officer Certificate for income of the past 2 years.
+  - Mamladaar’s/Block Revenue Officer certificate for income of the past 2 years.
+  - Bank account statement for the past 12 months (individual).
+  - Land revenue records (Form 6, 7/12, 8A).
+
+- **Additional Documents for NRI/PIO/OCI:**
+  - Duly filled application form with signatures and photographs.
+  - Copy of passport with VISA stamped.
+  - Details of local contact person (name, address, relation, contact numbers).
+  - Residence Proof (India and abroad, e.g., Driver’s license, ration card, voter ID, passport, Aadhaar card, registered rent agreement).
+  - Overseas bank account statement for the last 6 months.
+  - NRE savings bank statement of account for the last 6 months.
+  - Account statement for all existing loans for the last 1 year.
+  - Credit check reports from Overseas Credit Bureau.
+  - **For PIO (additional):**
+    - Current passport showing birthplace in India or abroad.
+    - Indian passport, if held earlier.
+    - Passport of parents or grandparents substantiating PIO claim.
+  - **For Salaried Individuals (NRI/PIO/OCI):**
+    - Employment contract copy in vernacular language.
+    - Copy of ID card issued by the current employer.
+    - Copy of ITR of the individual for the last 2 years (India/abroad).
+    - Latest salary slips for the last 6 months.
+    - Continuous discharge certificate, if applicable.
+    - Copy of latest work permit.
+  - **For Self-employed Individuals (NRI/PIO/OCI):**
+    - Balance sheet and profit and loss account of business or profession.
+    - Copies of individual’s ITR for the last 3 years (India/abroad).
+    - Continuous discharge certificate, if applicable.
+    - Business proof, place of business, and address proof.
+    - A note providing information on the nature of business or profession.

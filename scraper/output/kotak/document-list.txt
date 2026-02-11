@@ -1,0 +1,22 @@
+# Kotak Mahindra Bank — Document Requirements
+
+The following documents are required for a home loan application with Kotak Mahindra Bank:
+- Duly signed application form with a photograph
+- PAN Card
+- Aadhaar Card
+- Passport
+- Address Proof
+- Bank statements
+- Salary slip for the last 3 months (for salaried applicants)
+- ITR and Form 16 (for salaried applicants)
+- Job Confirmation Proof (for salaried applicants)
+- Relationship Proof
+- Proof of business existence (for self-employed applicants)
+- Business Profile (for self-employed applicants)
+- Business Reference (for self-employed applicants)
+- Power of Attorney (if applicable)
+- Information regarding loans availed with its track record
+- Education qualification certificate and proof of business existence
+- ITR for the last 3 years with income computation (for self-employed applicants)
+- Balance sheet for last 3 years along with profit and loss account certified by a Chartered Accountant (for self-employed applicants)
+- All property documents with sanction map

@@ -1,0 +1,68 @@
+# HDFC Bank — Document Requirements
+
+Comprehensive list of documents required for HDFC Bank Home Loan applications:
+
+-   **ID Proof:**
+    -   PAN Card or Form 60
+    -   Passport
+    -   Voter ID
+    -   Driving License
+    -   Job card issued by NREGA duly signed by State Government officer
+    -   Proof of possession of Aadhar Number
+    -   Letter issued by National Population Register containing name and address details
+
+-   **Income Proof:**
+    -   **For Salaried Individuals:**
+        -   Salary slips for the last 3 months
+        -   ITR and Form 16
+        -   Bank account statement for the past 6 months showing salary credit
+    -   **For Self-Employed Individuals:**
+        -   ITR with income computation for the past 3 assessment years of both individual and business entities (duly attested by a CA)
+        -   Current account statement of business entity for past 6 months and savings account statement of the individuals for both individual and business entity (duly attested by a CA)
+        -   Balance sheet and profit and loss account statement for last 3 years, with schedules and annexures
+
+-   **Property Related Documents:**
+    -   **For New Home:**
+        -   Allotment letter copy/Buyer agreement
+        -   Payment receipt made to the developer
+    -   **For Resale Home:**
+        -   Title deeds including previous chain of property documents
+        -   Agreement to sell copy
+        -   Initial payment receipt made to the seller
+    -   **For Construction:**
+        -   Title deed of plot
+        -   Copy of the plan approved by Local Authorities
+        -   No encumbrance proof on the property
+        -   Total estimate of construction by a Civil Engineer/Architect
+
+-   **Other Documents:**
+    -   **For Salaried Applicants:**
+        -   Proof of own contribution
+        -   Bank Statement for last 6 months with loan repayment record
+        -   Appointment letter/Employment contract if current employment is less than a year old
+        -   Passport-size photograph with signatures across
+        -   Processing fee cheque in favour of HDFC Bank Ltd.
+    -   **For Self-Employed Applicants:**
+        -   Business Profile and Form 26AS
+        -   Memorandum and Articles of Association of the Company
+        -   Own contribution proof
+        -   Details of current loans of the individual and business entity (instalments, outstanding amount, purpose, security, balance loan term, etc.)
+        -   Processing fee cheque favouring HDFC Bank Ltd.
+        -   Passport-size photographs with signatures across
+
+-   **Additional Documents for HDFC Rural Housing Loan:**
+    -   **Income Proof:**
+        -   Bank statement for the past 6 months
+        -   Copy of title documents of agricultural land depicting land holding
+        -   Copy of title documents of agricultural land depicting crops being cultivated
+    -   **Other Documents:**
+        -   Bank statement for last 6 months showing loan repayment record
+        -   Passport size photographs signed across
+        -   Own contribution proof
+        -   Processing fee cheque in favor of HDFC Bank Ltd.
+        -   Statement of past 2 years of loans availed
+
+-   **Documents Required for HDFC Home Loan Balance Transfer:**
+    -   A letter from the existing lender on their letterhead mentioning the list of property documents held by them
+    -   Photocopy of property documents
+    -   A letter from the existing financial institution on their letterhead showing the latest outstanding balance

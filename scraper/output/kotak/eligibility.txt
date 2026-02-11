@@ -1,0 +1,50 @@
+# Kotak Mahindra Bank — Eligibility Criteria
+
+Kotak Mahindra Bank sets the following eligibility criteria for home loan applicants:
+
+**For Indian Residents (Salaried & Self-Employed):**
+- **Age:**
+  - Salaried: 18 to 60 years
+  - Self-employed: 18 to 65 years
+- **Gross Income:**
+  - Minimum ₹20,000 per month for Delhi, Bangalore, Mumbai, Pune, and Chennai.
+  - Minimum ₹15,000 per month for other cities.
+- **Minimum Qualification:**
+  - For applicants in Private Limited Companies and Partnership Firms: Bachelor’s Degree.
+  - For applicants in Public Limited Companies, MNCs, Government, or Public Sector Companies: No minimum qualification specified.
+- **Credit Score:** The bank checks the credit score. A CIBIL score of 750 and above generally increases the chances of loan approval at lower interest rates.
+
+**For Hindu Undivided Family (HUF):**
+- The applicant or co-applicant must be the Karta of the HUF.
+- HUF must provide IT returns for at least 3 years.
+- HUF must have existed for at least 3 years.
+- Minimum Net Income:
+  - ₹2.4 Lakhs p.a. for Delhi, Bangalore, Mumbai, Pune, and Chennai.
+  - ₹1.8 Lakhs p.a. for other cities.
+
+**For Non-Resident Indians (NRI Home Loan):**
+- **Maximum Age:** 58 years at the time of loan maturity.
+- **Employment:** Must be a graduate and employed for at least 3 years.
+- **Minimum Income Requirement (salary must be received via cheque or direct bank credit, not cash):**
+  - **For loan tenure up to 5 years:**
+    - USA/UK/Other countries (excluding Gulf): USD 20,000 annually.
+    - Merchant Navy: USD 20,000 annually.
+    - Gulf countries: Dirhams 36,000 annually.
+  - **For loan tenure above 5 years to 15 years:**
+    - USA/UK/Other countries (excluding Gulf): USD 42,000 annually.
+    - Merchant Navy: USD 26,000 annually.
+    - Gulf countries: Dirhams 48,000 annually.
+
+**For Non-Resident Indians (NRI Home Improvement Loan):**
+- **Maximum Age:** 58 years.
+- **Minimum Qualification:** Graduation.
+- **Employment:** Employed for the last 3 years.
+- **Minimum Income Requirement (salary must be credited to bank account via cheque or direct bank transfer):**
+  - **For tenure up to 5 years:**
+    - Gulf countries: Dirhams 36,000 annually.
+    - USA/UK/Other countries (excluding Gulf): USD 30,000 annually.
+    - Merchant Navy: USD 20,000 annually.
+  - **For tenure above 5 years:**
+    - Gulf countries: Dirhams 48,000 annually.
+    - USA/UK/Other countries (excluding Gulf): USD 26,000 annually.
+    - Merchant Navy: USD 20,000 annually.

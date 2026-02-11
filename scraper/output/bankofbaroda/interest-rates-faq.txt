@@ -1,0 +1,82 @@
+# Bank of Baroda — Interest Rates & FAQs
+
+**1. Interest Rates:**
+Bank of Baroda offers both floating and fixed interest rates, which are dependent on the loan limit and CIBIL score of the applicants. A risk premium of 0.05% applies for customers not obtaining credit insurance cover.
+
+- **Floating Interest Rates (linked to BRLLR):**
+  - **Baroda Housing Loan and Home Improvement Loan:**
+    - For Salaried: 7.20%-8.95% p.a.
+    - For Non-Salaried: 7.20%-8.95% p.a.
+  - **Bank of Baroda Max Savings Home Loan:**
+    - Up to ₹75 Lakhs:
+      - For Salaried: 7.20%-9.00% p.a.
+      - For Non-Salaried: 7.20%-9.00% p.a.
+    - Above ₹75 Lakhs:
+      - For Salaried: 7.20%-9.25% p.a.
+      - For Non-Salaried: 7.20%-9.25% p.a.
+  - **Bank of Baroda Top Up Home Loan:**
+    - Applicable ROI on linked Home Loan (Based on BRLLR on the date of availment of Top up Loan) + Strategic Premium (0.25%) + 0.60%.
+
+- **Fixed Interest Rates (linked to RLLR):**
+  - Bank of Baroda charges an additional interest rate of 0.10% p.a. from non-salaried applicants under fixed interest rate home loans.
+  - **Baroda Housing Loan and Home Improvement Loan:** 8.75% - 9.75% p.a.
+  - **Bank of Baroda Max Savings Home Loan:**
+    - Up to ₹75 Lakhs: 8.75% - 9.75% p.a.
+    - Above ₹75 Lakhs: 9.00% - 10.00% p.a.
+  - **Bank of Baroda Top Up Home Loan:** Applicable ROI on Home Loan + Strategic Premium + 0.50%.
+
+**2. Processing Fees & Charges:**
+
+- **For Loan amounts up to ₹50 Lakhs:** 0.50% of the loan amount, Minimum: ₹8,500/-, Maximum: ₹15,000/-.
+- **For Loan amounts greater than ₹50 Lakhs:** 0.25% of the loan amount, Minimum: ₹8,500/-, Maximum: ₹25,000/-.
+- **Takeover (Balance Transfer):** Flat ₹8,500/-.
+- **Top-up Loan:** 0.35% of the top-up amount, Minimum: ₹5,000/-, Maximum: ₹12,500/-.
+- **Baroda Yoddha Home Loan:** NIL processing fees, Out of Pocket expenses: ₹8,500/- per property.
+- **Prepayment Charges:** NIL.
+
+**3. Loan Amount and Tenure Options:**
+
+- **General Home Loan (Floating & Fixed):**
+  - Loan Amount: Up to ₹20 Crore.
+  - City-wise Loan Amount Limits:
+    - Mumbai: Up to ₹20 Crore.
+    - Hyderabad, New Delhi (including NCR), Bengaluru: Up to ₹7.50 Crore.
+    - Other Metros, Chandigarh, Panchkula, Mohali: Up to ₹5 Crore.
+    - Urban Areas: Up to ₹3 Crore.
+    - Semi-urban and Rural: Up to ₹1 Crore.
+  - Loan Tenure: Up to 30 years, including a moratorium period of up to 3 years.
+
+- **BOB Max Savings Home Loan:**
+  - Loan Amount: Similar city-wise limits as General Home Loan, up to ₹20 Crore for Mumbai.
+  - Loan Tenure: Up to 30 years, including a maximum moratorium period of 36 months.
+
+- **Bank of Baroda Home Loan Takeover Scheme:**
+  - Loan Amount: Similar city-wise limits as General Home Loan, up to ₹20 Crore for Mumbai.
+  - Loan Tenure: Up to 30 years, including a maximum moratorium period of 3 years.
+
+- **Bank of Baroda Home Improvement Loan:**
+  - Loan Amount: Up to ₹50 Lakhs.
+  - Loan Tenure: Maximum 15 years, including a moratorium period of 6 months.
+
+- **BOB Pre-Approved Home Loan:** Offers an in-principle sanction letter valid for 4 months.
+
+- **Bank of Baroda Top-up Loan:**
+  - Loan Amount: ₹1 Lakh to ₹10 Crore.
+  - Loan Tenure: Should not exceed 70 years of age.
+
+- **Loan to Value (LTV) Ratio (across most home loan products):**
+  - Loan amounts up to ₹30 Lakhs: 90% LTV.
+  - Loan amounts above ₹30 Lakhs - ₹75 Lakhs: 80% LTV.
+  - Loan amounts above ₹75 Lakhs: 75% LTV.
+
+- **Collateral:** Constructed or purchased property, insurance policies, shares and debentures, government promissory notes, gold ornaments, etc.
+
+**4. Frequently Asked Questions (FAQs):**
+
+- **Home Loan Application Process:** Applicants can apply online through the bank's official website, the 'BoB World' mobile app, or by visiting a Bank of Baroda branch. Online financial marketplaces like Paisabazaar also facilitate applications.
+- **Home Loan Interest Rate Calculation:** EMIs can be calculated using an online home loan EMI calculator by entering the loan amount, tenure, and interest rate.
+- **Home Loan Overdraft Facility:** Available with schemes like 'Baroda Max Savings Home Loan', which links an overdraft account (savings account) to the home loan, allowing deposits and withdrawals to reduce interest costs.
+- **Home Loan for Women:** While no exclusive scheme exists, women can avail a 0.05% interest concession on existing home loan schemes as part of festive offers.
+- **Property Insurance:** The text does not explicitly state if property insurance is mandatory for a Bank of Baroda home loan.
+- **Home Loan Statement/Interest Certificate:** Borrowers can download statements and interest certificates through Internet banking, the 'BoB World App', or by requesting them at a bank branch. Mini statements can be requested via a missed call to 8468001122.
+- **Tracking Loan Status:** Status can be checked by visiting the 'Contact Us' section of the Bank of Baroda website, calling toll-free numbers (1800 5700 / 1800 5000; +91 79-66296009 for NRIs), or through Internet banking.

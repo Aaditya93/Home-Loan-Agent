@@ -1,0 +1,52 @@
+[
+    {
+        "key": "sbi",
+        "name": "State Bank of India",
+        "url": "https://www.paisabazaar.com/sbi-bank/home-loan/"
+    },
+    {
+        "key": "hdfc",
+        "name": "HDFC Bank",
+        "url": "https://www.paisabazaar.com/hdfc-bank/home-loan/"
+    },
+    {
+        "key": "icici",
+        "name": "ICICI Bank",
+        "url": "https://www.paisabazaar.com/icici-bank/home-loan/"
+    },
+    {
+        "key": "axis",
+        "name": "Axis Bank",
+        "url": "https://www.paisabazaar.com/axis-bank/home-loan/"
+    },
+    {
+        "key": "kotak",
+        "name": "Kotak Mahindra Bank",
+        "url": "https://www.paisabazaar.com/kotak-mahindra-bank/home-loan/"
+    },
+    {
+        "key": "idfc",
+        "name": "IDFC First Bank",
+        "url": "https://www.paisabazaar.com/idfc-first-bank/home-loan/"
+    },
+    {
+        "key": "bandhan",
+        "name": "Bandhan Bank",
+        "url": "https://www.paisabazaar.com/bandhan-bank/home-loan/"
+    },
+    {
+        "key": "bankofbaroda",
+        "name": "Bank of Baroda",
+        "url": "https://www.paisabazaar.com/bank-of-baroda/home-loan/"
+    },
+    {
+        "key": "bankofindia",
+        "name": "Bank of India",
+        "url": "https://www.paisabazaar.com/bank-of-india/home-loan/"
+    },
+    {
+        "key": "canarabank",
+        "name": "Canara Bank",
+        "url": "https://www.paisabazaar.com/canara-bank/home-loan/"
+    }
+]

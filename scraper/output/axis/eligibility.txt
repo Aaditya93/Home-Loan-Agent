@@ -1,0 +1,33 @@
+# Axis Bank — Eligibility Criteria
+
+Axis Bank Home Loan eligibility criteria are as follows:
+
+- **For Salaried Individuals**:
+  - Must have permanent service in a government or a reputed private sector organisation.
+  - Minimum age: above 21 years at the time of loan commencement.
+  - Maximum age: 65 years or the age of retirement.
+
+- **For Professionals**:
+  - Eligible professionals include doctors, dentists, architects, engineers, cost accountants, company secretaries, chartered accountants, and management consultants.
+  - Age: between 21 years to 65 years.
+
+- **For Self-Employed Individuals**:
+  - Any individual filing income tax returns can apply.
+  - Minimum age: above 21 years at the time of loan commencement.
+  - Maximum age: 65 years at the time of loan maturity.
+
+- **For Top-up Loan**:
+  - Both NRI and Resident Indians are eligible.
+  - Existing home loan borrowers can avail top-up loans after 6 months of clear repayment.
+  - Not more than 1 EMI bounce in the last 1 year, which should have been cleared before the next EMI date.
+  - For a top-up loan with a balance transfer, 1 year clear repayment history is required.
+  - Can be extended only against complete residential property with no pending post-disbursement documentation.
+  - In the case of NRI borrowers, the property must be owned either singly by the borrower or in joint ownership.
+
+- **General Eligibility Factors**:
+  - The lender also considers factors like credit score, monthly income, and EMI/NMI ratio.
+  - A CIBIL score of 700 and above generally increases the chances of loan approval and helps in availing lower interest rates.
+  - **Co-applicant**: It is mandatory to have a co-applicant. The co-owner of the property should be the co-applicant. If there is no co-owner, any member of the immediate family can be the co-applicant.
+
+- **Asha Home Loan Specific Eligibility**:
+  - Applicants should have a minimum combined family income of ₹8,000 per month.
