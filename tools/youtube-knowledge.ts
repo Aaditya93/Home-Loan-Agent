@@ -4,6 +4,7 @@
 import { z } from 'zod';
 import { FunctionTool } from '@google/adk';
 import { searchRelevantSegments } from '../youtube-rag/retrieval.js';
+import { connectDB } from '../db/connection.js';
 
 export const youtubeKnowledge = new FunctionTool({
     name: 'youtube_knowledge',
@@ -12,6 +13,7 @@ export const youtubeKnowledge = new FunctionTool({
         query: z.string().describe('The user\'s question or search query'),
     }),
     execute: async ({ query }) => {
+        await connectDB();
         try {
             console.log(`Searching YouTube knowledge base for: "${query}"`);
             const results = await searchRelevantSegments(query, 5);
