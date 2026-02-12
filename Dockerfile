@@ -21,8 +21,5 @@ RUN npm install
 COPY . .
 
 # Run the web service on container startup.
-# We use npx adk api_server to serve the agent. 
-# --port 8080 is the default port for Cloud Run.
-# --host 0.0.0.0 is required to listen on all interfaces in Docker.
-ENV PORT=8080
-CMD [ "npx", "adk", "api_server", "--port", "8080", "--host", "0.0.0.0" ]
+# We use npm start to run server.ts, which connects to DB and starts the server.
+CMD [ "npm", "start" ]
