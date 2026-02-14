@@ -1,7 +1,7 @@
 import express from 'express';
 import cors from 'cors';
 import dotenv from 'dotenv';
-import { Runner, isFinalResponse, stringifyContent } from '@google/adk';
+import { Runner, isFinalResponse, stringifyContent, StreamingMode } from '@google/adk';
 import { connectDB } from './db/connection.js';
 import { MongoSessionService } from './db/mongo-session-service.js';
 import { rootAgent } from './agent.js';
@@ -18,6 +18,7 @@ const runner = new Runner({
     appName: APP_NAME,
     agent: rootAgent,
     sessionService,
+
 });
 
 // Middleware
@@ -42,50 +43,102 @@ app.get('/health', (_req, res) => {
 
 app.post('/api/chat', async (req, res) => {
     try {
-        const { message, sessionId: incomingSessionId, userId = 'default_user' } = req.body;
+        const { message, sessionId: incomingSessionId, userId } = req.body;
+
+        console.log('Received chat request:', { message, incomingSessionId, userId });
 
         if (!message) {
             return res.status(400).json({ error: 'Message is required' });
         }
 
+        // Set headers for SSE
+        res.setHeader('Content-Type', 'text/event-stream');
+        res.setHeader('Cache-Control', 'no-cache');
+        res.setHeader('Connection', 'keep-alive');
+        res.flushHeaders();
+
         // If no sessionId provided, create a new session
         let sessionId = incomingSessionId;
-        if (!sessionId) {
+        let sessionExists = false;
+        if (sessionId) {
+            const existingSession = await sessionService.getSession({
+                appName: APP_NAME,
+                userId,
+                sessionId
+            });
+            if (existingSession) {
+                sessionExists = true;
+            }
+        }
+        if (!sessionExists) {
             const session = await sessionService.createSession({
                 appName: APP_NAME,
                 userId,
+                sessionId
+
             });
             sessionId = session.id;
         }
+
+        // Send the sessionId to the client immediately
+        res.write(`data: ${JSON.stringify({ sessionId })}\n\n`);
 
         // Build the Content object expected by ADK
         const newMessage = {
             role: 'user' as const,
             parts: [{ text: message }],
         };
+        console.log('Sending message to agent:', { newMessage });
 
-        // Run the agent and collect events
-        let responseText = '';
+        // Run the agent and stream events
         let eventCount = 0;
-        for await (const event of runner.runAsync({ userId, sessionId, newMessage })) {
+        let responseText = '';
+
+        for await (const event of runner.runAsync({
+            userId,
+            sessionId,
+            newMessage,
+            runConfig: { streamingMode: StreamingMode.SSE }
+        })) {
             eventCount++;
             const isFinal = isFinalResponse(event);
-            console.log(`[Event #${eventCount}] author=${event.author}, isFinal=${isFinal}, parts=${JSON.stringify(event.content?.parts?.map(p => p.text ? 'text' : p.functionCall ? 'functionCall' : 'other'))}`);
-            if (isFinal) {
-                responseText += stringifyContent(event);
+
+            // Extract content to stream
+            const content = stringifyContent(event);
+            if (content) {
+                // If it's the final response, we accumulate it too
+                if (isFinal) {
+                    responseText += content;
+                }
+
+                // Stream the chunk to the client
+                res.write(`data: ${JSON.stringify({
+                    chunk: content,
+                    isFinal,
+                    author: event.author
+                })}\n\n`);
             }
+
+            console.log(`[Event #${eventCount}] author=${event.author}, isFinal=${isFinal}, contentLength=${content?.length}`);
         }
 
         console.log(`[Chat] Total events: ${eventCount}, responseText length: ${responseText.length}`);
 
-        if (!responseText) {
-            responseText = 'I was unable to generate a response. Please try again.';
+        if (!responseText && eventCount === 0) {
+            res.write(`data: ${JSON.stringify({ error: 'I was unable to generate a response. Please try again.' })}\n\n`);
         }
 
-        res.json({ response: responseText, sessionId });
+        res.write('event: end\ndata: {}\n\n');
+        res.end();
     } catch (error: any) {
         console.error('Error processing agent request:', error);
-        res.status(500).json({ error: 'Internal Server Error', details: error.message });
+        // If headers weren't sent yet, we can send a 500. Otherwise, we send an error event.
+        if (!res.headersSent) {
+            res.status(500).json({ error: 'Internal Server Error', details: error.message });
+        } else {
+            res.write(`data: ${JSON.stringify({ error: 'Internal Server Error', details: error.message })}\n\n`);
+            res.end();
+        }
     }
 });
 

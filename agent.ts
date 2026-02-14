@@ -1,4 +1,4 @@
-import { LlmAgent } from '@google/adk';
+import { LlmAgent, Gemini } from '@google/adk';
 import {
     emiCalculator,
     eligibilityChecker,
@@ -20,7 +20,8 @@ const retry_config = {
 }
 export const rootAgent = new LlmAgent({
     name: 'home_loan_agent',
-    model: 'gemini-2.5-flash',
+    model: new Gemini({ model: 'gemini-2.5-flash' }),
+
 
     description:
         'An expert home loan advisor for the Indian market that helps users with EMI calculations, loan eligibility, interest rate comparisons, stamp duty, prepayment analysis, document requirements, affordability assessment, and loan offer comparisons.',
